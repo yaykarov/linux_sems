@@ -1,2 +1,5 @@
 def foo():
-    print('foo')
+    print("foo")
+
+def bar():
+    print("bar")
